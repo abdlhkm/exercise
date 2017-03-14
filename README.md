@@ -1,2 +1,4 @@
-# exercise
-Belajar Push and Pull
+# hello-world
+
+Hi semua
+Saya baru belajar nih
